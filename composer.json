@@ -1,0 +1,7 @@
+{
+    "name": "shizu/cowsay",
+    "description": "Cowsay",
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
